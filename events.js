@@ -58,7 +58,7 @@ function four () {
   four.addEventListener('click', makeOrange)
 
   // Finally, we add one to make the colour white again
-  one.addEventListener('mouseleave', makeWhite)
+  four.addEventListener('mouseleave', makeWhite)
 }
 
 
