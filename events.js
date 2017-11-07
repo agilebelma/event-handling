@@ -77,7 +77,7 @@ function makeGreen (evt) {
 
 function makePurple (evt) {
   evt.target.style.backgroundColor = 'purple'
-{
+}
 
 function makeOrange (evt) {
   evt.target.style.backgroundColor = 'orange'
